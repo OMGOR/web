@@ -1,9 +1,13 @@
 # web
 
- 
+```bash 
 >ssh-keygen -t rsa -C "youremail@example.com"
+# 使用sra加密验证，按照你的邮箱生成一对密钥
 >git config --global user.name "John Doe"
+# 获得和设置配置变量，设置你的用户姓名
 >git config --global user.email johndoe@example.com 
+# 获得和设置配置变量，设置你的用户邮箱
+```
 
 ```bash
 # 初始化git项目
