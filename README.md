@@ -40,7 +40,7 @@ git push -u origin master
 
 ```css  
 li:last-child:border-right:none 
-// 去除最后一个子级的右描边  
+/* 去除最后一个子级的右描边  */
 list-stlye-type:none;      
 # 去除ul样式    
 text-decoration:none;   
