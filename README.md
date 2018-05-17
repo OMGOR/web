@@ -31,16 +31,16 @@ git push -u origin master
 <!-- 导航，分割短线可给a标签加border-right-->
 ```  
 
-```  
+```html  
 <table>  
    <tr><td></td></tr>  
 </table>  
-# 表格展示同类型功能  
+<!--表格展示同类型功能  -->
 ```  
 
-```  
+```css  
 li:last-child:border-right:none 
-# 去除最后一个子级的右描边  
+// 去除最后一个子级的右描边  
 list-stlye-type:none;      
 # 去除ul样式    
 text-decoration:none;   
