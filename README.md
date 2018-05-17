@@ -28,7 +28,7 @@ git push -u origin master
   <li><a href="#"></a></li>  
   <li><a href="#"></a></li>  
 </ul>  
-# 导航，分割短线可给a标签加border-right
+<!-- 导航，分割短线可给a标签加border-right-->
 ```  
 
 ```  
