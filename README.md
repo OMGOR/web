@@ -22,8 +22,8 @@ git remote add origin git@github.com:OMGOR/web2.git
 git push -u origin master
 ```
 
-```
-<ul>  
+```html
+<ul>  
   <li><a href="#"></a></li>  
   <li><a href="#"></a></li>  
   <li><a href="#"></a></li>  
