@@ -73,6 +73,7 @@
 				color: #F3F3F3;
 				position: absolute;
 				top: 180px;
+				display: block;
 			}
 			.dazi1 {
 				left: 418px;
@@ -134,16 +135,11 @@
 				color: #353864;
 			}
 			
-			.body {
-				background-color: #b0c4de;
-			}
-			
 			.logo {
 				margin: 0px 150px;
 			}
 			
 			.banner {
-				display: block;
 				margin: 0px;
 			}
 			
@@ -188,3 +184,5 @@
 				padding-left: 8px;
 				padding-right: 8px;
 			}
+			
+		
